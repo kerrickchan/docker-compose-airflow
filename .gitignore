@@ -1,0 +1,7 @@
+.DS_Store
+
+config/
+dags/
+logs/
+plugins/
+.env
